@@ -1,0 +1,65 @@
+{
+  "common": {
+    "email": "इमेल",
+    "emailPlaceholder": "आफ्नो इमेल प्रविष्ट गर्नुहोस्",
+    "loggedIn": "लगइन भयो!",
+    "login": "लगइन",
+    "logout": "लगआउट",
+    "password": "पासवर्ड",
+    "passwordPlaceholder": "आफ्नो पासवर्ड प्रविष्ट गर्नुहोस्",
+    "register": "दर्ता गर्नुहोस्"
+  },
+  "login": {
+    "footer": "© २०२३ तपाईंको कम्पनी। सबै अधिकार सुरक्षित।",
+    "forgotPassword": "पासवर्ड बिर्सनुभयो?",
+    "registerPrompt": "खाता छैन? ",
+    "socialLogin": "वा मार्फत जारी राख्नुहोस्",
+    "subtitle": "कृपया आफ्नो प्रमाणहरू प्रविष्ट गर्नुहोस्",
+    "title": "स्वागत छ"
+  },
+  "dashboard": {
+    "navMain": {
+      "dashboard": "ड्यासबोर्ड",
+      "lifecycle": "जीवनचक्र",
+      "analytics": "विश्लेषण",
+      "projects": "परियोजनाहरू",
+      "team": "टोली"
+    },
+    "navClouds": {
+      "capture": "क्याप्चर",
+      "activeProposals": "सक्रिय प्रस्तावहरू",
+      "archived": "पुराना प्रस्तावहरू",
+      "proposal": "प्रस्ताव",
+      "prompts": "प्रेरणाहरू"
+    },
+    "navSecondary": {
+      "settings": "सेटिङ",
+      "getHelp": "सहयोग प्राप्त गर्नुहोस्",
+      "search": "खोज्नुहोस्"
+    },
+    "documents": {
+      "dataLibrary": "डाटा पुस्तकालय",
+      "reports": "प्रतिवेदनहरू",
+      "wordAssistant": "शब्द सहायक"
+    },
+    "navUser": {
+      "account": "खाता",
+      "billing": "बिलिङ",
+      "notifications": "सूचनाहरू",
+      "logout": "लगआउट"
+    },
+    "cards":{
+  "totalRevenue": "कुल आम्दानी",
+  "newCustomers": "नयाँ ग्राहकहरू",
+  "activeAccounts": "सक्रिय खाताहरू",
+  "growthRate": "वृद्धिदर"
+    },
+    "quickCreate": "छिटो सिर्जना गर्नुहोस्",
+    "more": "थप",
+    "open": "खोल्नुहोस्",
+    "share": "साझा गर्नुहोस्",
+    "delete": "हटाउनुहोस्",
+    "doc":"कागजातहरू"
+  
+  }
+}

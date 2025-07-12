@@ -1,0 +1,64 @@
+{
+  "common": {
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "loggedIn": "Logged In!",
+    "login": "Login",
+    "logout": "Logout",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "register": "Register"
+  },
+  "login": {
+    "footer": "© 2023 Your Company. All rights reserved.",
+    "forgotPassword": "Forgot your Password?",
+    "registerPrompt": "Don't have an account? ",
+    "socialLogin": "Or continue with",
+    "subtitle": "Please enter your credentials",
+    "title": "Welcome Back"
+  },
+  "dashboard": {
+    "navMain": {
+      "dashboard": "Dashboard",
+      "lifecycle": "Lifecycle",
+      "analytics": "Analytics",
+      "projects": "Projects",
+      "team": "Team"
+    },
+    "navClouds": {
+      "capture": "Capture",
+      "activeProposals": "Active Proposals",
+      "archived": "Archived",
+      "proposal": "Proposal",
+      "prompts": "Prompts"
+    },
+    "navSecondary": {
+      "settings": "Settings",
+      "getHelp": "Get Help",
+      "search": "Search"
+    },
+    "documents": {
+      "dataLibrary": "Data Library",
+      "reports": "Reports",
+      "wordAssistant": "Word Assistant"
+    },
+    "navUser": {
+      "account": "Account",
+      "billing": "Billing",
+      "notifications": "Notifications",
+      "logout": "Logout"
+    },
+    "cards": {
+      "totalRevenue": "Total Revenue",
+      "newCustomers": "New Customers",
+      "activeAccounts": "Active Accounts",
+      "growthRate": "Growth Rate"
+    },
+    "quickCreate": "Quick Create",
+    "more": "More",
+    "open": "Open",
+    "share": "Share",
+    "delete": "Delete",
+    "doc": "Documents"
+  }
+}
