@@ -45,6 +45,7 @@ export function LoginForm({
 										type="email"
 										placeholder={t("common.emailPlaceholder")}
 										required
+										defaultValue="test@gmail.com"
 									/>
 								</div>
 								<div className="grid gap-3">
@@ -62,6 +63,7 @@ export function LoginForm({
 										type="password"
 										placeholder={t("common.passwordPlaceholder")}
 										required
+										defaultValue="password"
 									/>
 								</div>
 								<Button type="submit" className="w-full cursor-pointer">
