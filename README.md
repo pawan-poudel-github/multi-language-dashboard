@@ -1,4 +1,4 @@
-Welcome to your new TanStack app! 
+<img width="1616" height="910" alt="image" src="https://github.com/user-attachments/assets/43d6ba51-0c51-486d-9202-8b9c37ca543c" />
 
 # Getting Started
 
